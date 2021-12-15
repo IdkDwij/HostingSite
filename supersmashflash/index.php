@@ -1,5 +1,5 @@
 <?php 
-	require('start.php');
+	require('anti_ddos/start.php');
 ?>
 
 <!DOCTYPE html>
